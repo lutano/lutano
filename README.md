@@ -6,7 +6,7 @@ Passionate **Product Developer & UX/UI Designer** with over a decade of experien
 - 🌱 **I’m currently learning** more about how to manage complex Design Systems and React.js.
 - 🤔 **I’m looking for help with** finding new ways to integrate human-centered design principles in complex, data-driven environments.
 - 💬 **Ask me about** UX/UI design, frontend development, or how I blend creativity and code! Always happy to chat about **React, TypeScript, Figma**, or the magic of Swing dancing 💃.
-- 📫 **How to reach me**: You can message me right here on LinkedIn or shoot me an email at **luciano.spilotros@gmail.com**.
+- 📫 **How to reach me**: You can message me on LinkedIn!
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: When I’m not designing or coding, you can find me teaching **Swing dancing**, cycling 🚴‍♂️, hiking 🏞️, or volunteering at Jazz Dance festivals across Europe 🎶. 
 
